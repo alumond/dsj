@@ -1,2 +1,2 @@
-# dsj
-kew
+# Hamoye Project D Kaggle Competition
+Hamoye
